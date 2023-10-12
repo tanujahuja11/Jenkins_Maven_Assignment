@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-12T19:10:05Z" name="Default suite" finished-at="2023-10-12T19:10:10Z" duration-ms="5785">
+    <groups>
+    </groups>
+    <test started-at="2023-10-12T19:10:05Z" name="Default test" finished-at="2023-10-12T19:10:10Z" duration-ms="5785">
+      <class name="Assignment.Jenkins.testcase">
+        <test-method signature="openAmazon()[pri:0, instance:Assignment.Jenkins.testcase@7bf3a5d8]" started-at="2023-10-12T19:10:05Z" name="openAmazon" finished-at="2023-10-12T19:10:10Z" duration-ms="5759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAmazon -->
+      </class> <!-- Assignment.Jenkins.testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
